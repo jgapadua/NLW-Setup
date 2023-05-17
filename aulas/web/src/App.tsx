@@ -18,3 +18,5 @@ function App() {
 
 export default App
  
+//Componente: Reaproveita/isolar
+//Propriedade: Uma informação enviada pra modificar um componente visual ou comportamentalmente
